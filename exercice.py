@@ -34,10 +34,10 @@ def bills(value):
 		if value >= 20:
 			twenties = value // 20
             value = value % 20
-		elif value >= 10:
+		if value >= 10:
 			tens = value // 10
             value = value % 10
-		elif value >= 5:
+		if value >= 5:
 			fives = value // 5
             value = value % 5
 		if value >= 1:
