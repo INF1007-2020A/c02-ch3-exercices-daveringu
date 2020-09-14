@@ -24,7 +24,7 @@ def average(values):
         if v­>= 0:
             sum += v
             num_values +=1
-    
+    return sum/num_
 		pass # La variable v contient une valeur de la liste.
 
 def bills(value):
