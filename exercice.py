@@ -32,7 +32,7 @@ def bills(value):
 	twenties=tens=fives=ones=0
     while value != 0:
 		if value >= 20:
-			twenties=value//20
+			twenties = value // 20
             value = value % 20
 		elif value >= 10:
 			pass
