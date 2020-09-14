@@ -13,7 +13,7 @@ def orthogonal(v1, v2):
 	
     # calculer le produit scalaire
     #vérifier si =0
-    #ret
+    #retourner Vrai si =0, Faux si non
     pass
 
 def average(values):
