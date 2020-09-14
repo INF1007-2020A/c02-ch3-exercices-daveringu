@@ -11,7 +11,7 @@ def orthogonal(v1, v2):
 	v1[0] # Pour accéder au X
 	v1[1] # Pour accéder au Y
 	
-    #
+    # ca
     pass
 
 def average(values):
