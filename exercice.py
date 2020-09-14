@@ -12,7 +12,7 @@ def orthogonal(v1, v2):
 	v1[1] # Pour accéder au Y
 	prodscal=v1[0]*v2[0]+v1[0]*v2[1]+v1[1]*v2[0]+v1[1]*v2[1]
     # calculer le produit scalaire
-    if prodscal
+    if prodscal=
     #vérifier si =0
     #retourner Vrai si =0, Faux sinon
     pass
