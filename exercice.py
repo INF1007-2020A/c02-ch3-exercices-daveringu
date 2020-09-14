@@ -31,7 +31,7 @@ def bills(value):
 	# TODO: Calculez le nombre de billets de 20$, 10$ et 5$ et pièces de 1$ à remettre pour représenter la valeur.
 	while value != 0:
 		if value >= 20:
-			for 
+			for value
 		elif value >= 10:
 			pass
 		elif value >= 5:
