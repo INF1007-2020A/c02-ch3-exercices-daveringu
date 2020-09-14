@@ -10,7 +10,7 @@ def orthogonal(v1, v2):
 	# TODO: Retourner vrai si les vecteurs sont orthogonaux, faux sinon.
 	v1[0] # Pour accéder au X
 	v1[1] # Pour accéder au Y
-	v1[0]*v2[0]+v1[0]*v2[1]+v1[1]*v2[0]+v1[1]*v2[1]
+	prodv1[0]*v2[0]+v1[0]*v2[1]+v1[1]*v2[0]+v1[1]*v2[1]
     # calculer le produit scalaire
     #vérifier si =0
     #retourner Vrai si =0, Faux sinon
