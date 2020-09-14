@@ -15,7 +15,6 @@ def orthogonal(v1, v2):
     return prodscal==0
     #vérifier si =0
     #retourner Vrai si =0, Faux sinon
-    pass
 
 def average(values):
 	# TODO: Calculer la moyenne des valeurs positives (on ignore les valeurs strictement négatives).
