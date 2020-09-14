@@ -18,6 +18,7 @@ def orthogonal(v1, v2):
 
 def average(values):
 	# TODO: Calculer la moyenne des valeurs positives (on ignore les valeurs strictement négatives).
+    
 	for v in values:
 		pass # La variable v contient une valeur de la liste.
 
