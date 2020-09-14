@@ -10,7 +10,9 @@ def orthogonal(v1, v2):
 	# TODO: Retourner vrai si les vecteurs sont orthogonaux, faux sinon.
 	v1[0] # Pour accéder au X
 	v1[1] # Pour accéder au Y
-	pass
+	
+    #
+    pass
 
 def average(values):
 	# TODO: Calculer la moyenne des valeurs positives (on ignore les valeurs strictement négatives).
