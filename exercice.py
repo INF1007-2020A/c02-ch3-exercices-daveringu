@@ -38,8 +38,8 @@ def bills(value):
 			tens = value // 10
             value = value % 10
 		elif value >= 5:
-			twenties = value // 20
-            value = value % 20
+			fives = value // 5
+            value = value % 5
 		elif value >= 1:
 			pass
 
