@@ -40,7 +40,7 @@ def bills(value):
 		elif value >= 5:
 			fives = value // 5
             value = value % 5
-		elif value >= 1:
+		lif value >= 1:
 			ones = value
             value = 0
 
