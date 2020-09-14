@@ -23,7 +23,7 @@ def average(values):
 	for v in values:
         if v­>= 0:
             sum += v
-            num_values 
+            num_values +
 		pass # La variable v contient une valeur de la liste.
 
 def bills(value):
