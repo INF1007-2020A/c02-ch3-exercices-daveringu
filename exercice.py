@@ -24,8 +24,8 @@ def average(values):
         if v­>= 0:
             sum += v
             num_values +=1
-    return sum/num_
-		pass # La variable v contient une valeur de la liste.
+    return sum/num_values
+	# La variable v contient une valeur de la liste.
 
 def bills(value):
 	# TODO: Calculez le nombre de billets de 20$, 10$ et 5$ et pièces de 1$ à remettre pour représenter la valeur.
