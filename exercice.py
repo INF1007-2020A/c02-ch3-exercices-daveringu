@@ -41,7 +41,7 @@ def bills(value):
 			fives = value // 5
             value = value % 5
 		elif value >= 1:
-			ones = value // 20
+			ones = value // 2
             value = 0
 
 	return (twenties, tens, fives, ones);
