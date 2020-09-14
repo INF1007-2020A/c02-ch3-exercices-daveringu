@@ -12,7 +12,8 @@ def orthogonal(v1, v2):
 	v1[1] # Pour accéder au Y
 	
     # calculer le produit scalaire
-    #vérifier si 
+    #vérifier si =0
+    #
     pass
 
 def average(values):
